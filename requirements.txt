@@ -1,0 +1,8 @@
+PyMuPDF==1.23.6
+Pillow==10.1.0
+torch==2.1.2
+transformers==4.36.2
+numpy==1.26.3
+google-generativeai==0.3.2
+opencv-python==4.9.0.80
+aiofiles==23.2.1
